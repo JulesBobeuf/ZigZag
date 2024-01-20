@@ -1,6 +1,6 @@
-# Fruit Ninja
+# ZigZag
 
-ZigZag I have made using Unity and C# following a Udemy Course by Denis Panjuta : The C# Masterclass
+ZigZag clone I have made using Unity and C# following a Udemy Course by Denis Panjuta : The C# Masterclass
 
 ## Play the game
 
