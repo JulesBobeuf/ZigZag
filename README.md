@@ -19,7 +19,7 @@ This project is a simple clone of the popular hyper-casual mobile game **ZigZag*
 ZigZag/
 ├── 📁 Assets/            # Game assets (models, textures, sounds, etc.)
 ├── 📁 ProjectSettings/    # Unity project settings
-├── 📄 PlayZigZag/         # Build folder containing the executable
+├── 📁 PlayZigZag/         # Build folder containing the executable
 ├── 📄 README.md           # Project documentation
 └── 📄 .gitignore          # Git ignore file
 ```
