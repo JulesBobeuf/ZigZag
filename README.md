@@ -1,12 +1,13 @@
-# ZigZag Unity Clone
-
-  <img src="assets/readme-zigzag.png" alt="ZigZag Screenshot" width="600">
-
-**ZigZag Unity Clone** is a 3D endless runner game developed using Unity and C#. This project was created as part of a personal learning experience, following the C# Masterclass by Denis Panjuta on Udemy.
+<div align="center">
+  <h1 align="center">ZigZag Unity Clone</h1>
+  <img src="assets/readme-zigzag.png" alt="ZigZag Screenshot" width="600">  <p align="center">
+    My ZigZag clone, built with Unity in C#.
+</div>
 
 ## About The Project
 
-This project is a simple clone of the popular hyper-casual mobile game **ZigZag**, where players control a ball that moves along a zigzag path, aiming to avoid falling off the edges. The game was developed using Unity and C# to practice game development concepts and improve programming skills.
+**ZigZag Unity Clone** is a 3D endless runner game developed using Unity and C#. This project was created as part of a personal learning experience, following the C# Masterclass by Denis Panjuta on Udemy.
+In this game, players control a ball that moves along a zigzag path, aiming to avoid falling off the edges. In this version, you collect "Crystals" to increase your score.
 
 ## Built With
 
