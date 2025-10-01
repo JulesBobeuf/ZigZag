@@ -1,5 +1,7 @@
 # ZigZag Unity Clone
 
+  <img src="assets/readme-zigzag.png" alt="ZigZag Screenshot" width="600">
+
 **ZigZag Unity Clone** is a 3D endless runner game developed using Unity and C#. This project was created as part of a personal learning experience, following the C# Masterclass by Denis Panjuta on Udemy.
 
 ## About The Project
